@@ -1,4 +1,4 @@
-# Watson sample chatbot
+# Watson chatbot
 
 A simple chatbot using IBM Watson and Node.js
 
@@ -6,13 +6,16 @@ A simple chatbot using IBM Watson and Node.js
 
 # Intructions
 
-Create the `.env` file with the same content of `.env.example` and add your keys.
+Crie o arquivo `.env` com base no `.env.example` e adicione as seguintes chaves.
 
-Example of how `.env` will look: 
+Exemplo de como `.env` este deve parecer:
 ```
 WORKSPACE_ID=<workspace_id>
-ASSISTANT_USERNAME=<username>
-ASSISTANT_PASSWORD=<password>
+IAM_APIKEY=<apikey>
 ```
 
-To run the project execute in your terminal `node app.js`
+Execute em um terminal o seguinte comando: `node app.js`
+Atenção: Caso apresente erros execute os procedimentos a seguir:
+(A): `npm install`
+(B): `npm start`
+(C): `node app.js`
