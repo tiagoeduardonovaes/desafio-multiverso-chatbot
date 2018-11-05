@@ -4,7 +4,7 @@ Um chatbot simples usando o IBM Watson e Node.js
 
 ![chat-example](https://cdn-images-1.medium.com/max/800/1*iatsJpNf38Kix_In0ddw3g.gif)
 
-# Intructions
+# Instruções
 
 Crie um arquivo `.env` com base no `.env.example` e adicione as seguintes chaves.
 
