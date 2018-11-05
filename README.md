@@ -6,7 +6,7 @@ Um chatbot simples usando o IBM Watson e Node.js
 
 # Instruções
 
-Crie um arquivo `.env` com base no `.env.example` e adicione as seguintes chaves.
+Crie um arquivo `.env` com base no `.env.example` e adicione as seguintes chaves:
 
 ```
 WORKSPACE_ID=<workspace_id>
