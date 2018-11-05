@@ -1,3 +1,7 @@
+# Solutis - DESAFIO MORTY - CHATBOT
+Tiago Novaes
+tiago.te@gmail.com
+
 # Watson chatbot
 
 Um chatbot simples usando o IBM Watson e Node.js
